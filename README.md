@@ -1,5 +1,9 @@
+[![MasterHead](https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png)](https://divyabegari.io)
 <h1 align="center">Hi 👋, I'm DIVYA BEGARI</h1>
-<h3 align="center">A passionate Finance Analyst from India</h3>
+<h3 align="center">A passionate Finance Analyst from India</h3><img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiranmanne111&label=Profile%20views&color=0e75b6&style=flat" alt="saikiranmanne111" /> </p>
 
 - 🔭 I’m currently working on **MeriSkill Data Analytics**
 
